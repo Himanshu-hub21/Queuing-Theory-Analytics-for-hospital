@@ -1,0 +1,185 @@
+Date,OPDs,Morning New,Morning Old,Morning Total,Evening  New,Evening Old,Evening Total,Day
+"Friday,2023-09-01",ENT OPD,40,35,75,4,2,6,Friday
+"Friday,2023-09-01",PAED OPD,30,24,54,4,2,6,Friday
+"Friday,2023-09-01",OPTHALAM,80,40,120,10,0,10,Friday
+"Friday,2023-09-01",SKIN,70,55,125,20,4,24,Friday
+"Friday,2023-09-01",SURGERY,60,20,80,8,4,12,Friday
+"Friday,2023-09-01",ORTHO,66,28,94,5,3,8,Friday
+"Friday,2023-09-01",ObGy,37,33,70,7,7,14,Friday
+"Friday,2023-09-01",Med,120,75,195,50,15,65,Friday
+"Saturday,2023-09-02",ENT OPD,30,8,38,0,0,0,Saturday
+"Saturday,2023-09-02",PAED OPD,14,10,24,0,0,0,Saturday
+"Saturday,2023-09-02",OPTHALAM,40,28,68,0,0,0,Saturday
+"Saturday,2023-09-02",SKIN,50,26,76,0,0,0,Saturday
+"Saturday,2023-09-02",SURGERY,30,22,52,0,0,0,Saturday
+"Saturday,2023-09-02",ORTHO,60,22,82,0,0,0,Saturday
+"Saturday,2023-09-02",ObGy,26,17,43,0,0,0,Saturday
+"Saturday,2023-09-02",Med,80,35,115,0,0,0,Saturday
+"Monday,2023-09-04",ENT OPD,60,19,79,5,2,7,Monday
+"Monday,2023-09-04",PAED OPD,30,21,51,15,4,19,Monday
+"Monday,2023-09-04",OPTHALAM,100,10,110,20,2,22,Monday
+"Monday,2023-09-04",SKIN,40,21,61,20,5,25,Monday
+"Monday,2023-09-04",SURGERY,40,27,67,6,2,8,Monday
+"Monday,2023-09-04",ORTHO,61,46,107,10,2,12,Monday
+"Monday,2023-09-04",ObGy,48,32,80,3,7,10,Monday
+"Monday,2023-09-04",Med,150,64,214,32,13,45,Monday
+"Tuesday,2023-09-05",ENT OPD,30,20,50,10,5,15,Tuesday
+"Tuesday,2023-09-05",PAED OPD,20,33,53,11,4,15,Tuesday
+"Tuesday,2023-09-05",OPTHALAM,50,30,80,25,0,25,Tuesday
+"Tuesday,2023-09-05",SKIN,58,22,80,20,10,30,Tuesday
+"Tuesday,2023-09-05",SURGERY,40,15,55,8,2,10,Tuesday
+"Tuesday,2023-09-05",ORTHO,80,32,112,6,2,8,Tuesday
+"Tuesday,2023-09-05",ObGy,42,42,84,8,4,12,Tuesday
+"Tuesday,2023-09-05",Med,107,64,171,55,15,70,Tuesday
+"Wednesday,2023-09-06",ENT OPD,20,21,41,4,3,7,Wednesday
+"Wednesday,2023-09-06",PAED OPD,15,5,20,6,2,8,Wednesday
+"Wednesday,2023-09-06",OPTHALAM,100,32,132,12,8,20,Wednesday
+"Wednesday,2023-09-06",SKIN,73,10,83,20,3,23,Wednesday
+"Wednesday,2023-09-06",SURGERY,80,14,94,10,2,12,Wednesday
+"Wednesday,2023-09-06",ORTHO,90,20,110,10,5,15,Wednesday
+"Wednesday,2023-09-06",ObGy,48,33,81,5,2,7,Wednesday
+"Wednesday,2023-09-06",Med,64,54,118,50,22,72,Wednesday
+"Thursday,2023-09-07",ENT OPD,50,17,67,5,2,7,Thursday
+"Thursday,2023-09-07",PAED OPD,20,6,26,4,3,7,Thursday
+"Thursday,2023-09-07",OPTHALAM,100,30,130,12,5,17,Thursday
+"Thursday,2023-09-07",SKIN,67,10,77,12,8,20,Thursday
+"Thursday,2023-09-07",SURGERY,40,22,62,5,4,9,Thursday
+"Thursday,2023-09-07",ORTHO,50,29,79,6,2,8,Thursday
+"Thursday,2023-09-07",ObGy,39,27,66,6,2,8,Thursday
+"Thursday,2023-09-07",Med,78,49,127,27,18,45,Thursday
+"Friday,2023-09-08",ENT OPD,30,10,40,11,4,15,Friday
+"Friday,2023-09-08",PAED OPD,20,14,34,9,3,12,Friday
+"Friday,2023-09-08",OPTHALAM,80,15,95,10,5,15,Friday
+"Friday,2023-09-08",SKIN,46,14,60,12,8,20,Friday
+"Friday,2023-09-08",SURGERY,50,13,63,8,2,10,Friday
+"Friday,2023-09-08",ORTHO,50,29,79,5,3,8,Friday
+"Friday,2023-09-08",ObGy,33,22,55,5,3,8,Friday
+"Friday,2023-09-08",Med,65,78,143,42,13,55,Friday
+"Saturday,2023-09-09",ENT OPD,30,15,45,0,0,0,Saturday
+"Saturday,2023-09-09",PAED OPD,35,11,46,0,0,0,Saturday
+"Saturday,2023-09-09",OPTHALAM,75,45,120,0,0,0,Saturday
+"Saturday,2023-09-09",SKIN,30,34,64,0,0,0,Saturday
+"Saturday,2023-09-09",SURGERY,22,20,42,0,0,0,Saturday
+"Saturday,2023-09-09",ORTHO,49,19,68,0,0,0,Saturday
+"Saturday,2023-09-09",ObGy,53,19,72,0,0,0,Saturday
+"Saturday,2023-09-09",Med,99,51,150,0,0,0,Saturday
+"Monday,2023-09-11",ENT OPD,60,30,90,6,2,8,Monday
+"Monday,2023-09-11",PAED OPD,30,2,32,4,0,4,Monday
+"Monday,2023-09-11",OPTHALAM,60,40,100,8,4,12,Monday
+"Monday,2023-09-11",SKIN,68,4,72,20,5,25,Monday
+"Monday,2023-09-11",SURGERY,46,40,86,6,4,10,Monday
+"Monday,2023-09-11",ORTHO,100,61,161,8,0,8,Monday
+"Monday,2023-09-11",ObGy,62,45,107,4,2,6,Monday
+"Monday,2023-09-11",Med,142,56,198,35,12,47,Monday
+"Tuesday,2023-09-12",ENT OPD,50,17,67,10,4,14,Tuesday
+"Tuesday,2023-09-12",PAED OPD,30,24,54,8,2,10,Tuesday
+"Tuesday,2023-09-12",OPTHALAM,55,40,95,20,6,26,Tuesday
+"Tuesday,2023-09-12",SKIN,70,13,83,18,3,21,Tuesday
+"Tuesday,2023-09-12",SURGERY,50,16,66,5,2,7,Tuesday
+"Tuesday,2023-09-12",ORTHO,100,42,142,28,3,31,Tuesday
+"Tuesday,2023-09-12",ObGy,49,45,94,12,6,18,Tuesday
+"Tuesday,2023-09-12",Med,55,51,106,40,3,43,Tuesday
+"Wednesday,2023-09-13",ENT OPD,70,34,104,7,1,8,Wednesday
+"Wednesday,2023-09-13",PAED OPD,40,15,55,10,2,12,Wednesday
+"Wednesday,2023-09-13",OPTHALAM,80,10,90,10,2,12,Wednesday
+"Wednesday,2023-09-13",SKIN,73,13,86,14,3,17,Wednesday
+"Wednesday,2023-09-13",SURGERY,40,17,57,10,5,15,Wednesday
+"Wednesday,2023-09-13",ORTHO,70,12,82,8,2,10,Wednesday
+"Wednesday,2023-09-13",ObGy,37,39,76,17,0,17,Wednesday
+"Wednesday,2023-09-13",Med,51,74,125,43,7,50,Wednesday
+"Thursday,2023-09-14",ENT OPD,50,13,63,8,0,8,Thursday
+"Thursday,2023-09-14",PAED OPD,30,15,45,8,0,8,Thursday
+"Thursday,2023-09-14",OPTHALAM,60,20,80,10,2,12,Thursday
+"Thursday,2023-09-14",SKIN,52,12,64,16,3,19,Thursday
+"Thursday,2023-09-14",SURGERY,26,24,50,6,0,6,Thursday
+"Thursday,2023-09-14",ORTHO,50,40,90,20,4,24,Thursday
+"Thursday,2023-09-14",ObGy,40,30,70,9,1,10,Thursday
+"Thursday,2023-09-14",Med,99,40,139,30,8,38,Thursday
+"Friday,2023-09-15",ENT OPD,40,15,55,5,3,8,Friday
+"Friday,2023-09-15",PAED OPD,10,6,16,10,0,10,Friday
+"Friday,2023-09-15",OPTHALAM,50,30,80,10,5,15,Friday
+"Friday,2023-09-15",SKIN,50,12,62,10,4,14,Friday
+"Friday,2023-09-15",SURGERY,10,0,10,8,2,10,Friday
+"Friday,2023-09-15",ORTHO,73,20,93,20,4,24,Friday
+"Friday,2023-09-15",ObGy,46,52,98,12,0,12,Friday
+"Friday,2023-09-15",Med,88,66,154,33,7,40,Friday
+"Saturday,2023-09-16",ENT OPD,30,6,36,0,0,0,Saturday
+"Saturday,2023-09-16",PAED OPD,38,6,44,0,0,0,Saturday
+"Saturday,2023-09-16",OPTHALAM,50,10,60,0,0,0,Saturday
+"Saturday,2023-09-16",SKIN,46,12,58,0,0,0,Saturday
+"Saturday,2023-09-16",SURGERY,25,5,30,0,0,0,Saturday
+"Saturday,2023-09-16",ORTHO,30,11,41,0,0,0,Saturday
+"Saturday,2023-09-16",ObGy,31,35,66,0,0,0,Saturday
+"Saturday,2023-09-16",Med,66,57,123,0,0,0,Saturday
+"Monday,2023-09-18",ENT OPD,50,21,71,17,3,20,Monday
+"Monday,2023-09-18",PAED OPD,40,35,75,8,3,11,Monday
+"Monday,2023-09-18",OPTHALAM,60,20,80,10,6,16,Monday
+"Monday,2023-09-18",SKIN,55,12,67,10,0,10,Monday
+"Monday,2023-09-18",SURGERY,40,10,50,10,5,15,Monday
+"Monday,2023-09-18",ORTHO,100,59,159,15,5,20,Monday
+"Monday,2023-09-18",ObGy,31,34,65,12,0,12,Monday
+"Monday,2023-09-18",Med,135,57,192,38,5,43,Monday
+"Wednesday,2023-09-20",ENT OPD,90,48,102,7,1,8,Wednesday
+"Wednesday,2023-09-20",PAED OPD,38,15,53,10,5,15,Wednesday
+"Wednesday,2023-09-20",OPTHALAM,100,30,130,10,4,14,Wednesday
+"Wednesday,2023-09-20",SKIN,86,36,122,10,5,15,Wednesday
+"Wednesday,2023-09-20",SURGERY,30,25,55,15,3,18,Wednesday
+"Wednesday,2023-09-20",ORTHO,140,21,161,15,5,20,Wednesday
+"Wednesday,2023-09-20",ObGy,56,34,90,13,2,15,Wednesday
+"Wednesday,2023-09-20",Med,142,101,243,43,7,50,Wednesday
+"Thursday,2023-09-21",ENT OPD,70,16,86,8,2,10,Thursday
+"Thursday,2023-09-21",PAED OPD,27,30,57,7,8,15,Thursday
+"Thursday,2023-09-21",OPTHALAM,120,20,140,15,3,18,Thursday
+"Thursday,2023-09-21",SKIN,117,29,146,10,8,18,Thursday
+"Thursday,2023-09-21",SURGERY,50,16,66,15,5,20,Thursday
+"Thursday,2023-09-21",ORTHO,80,34,114,10,8,18,Thursday
+"Thursday,2023-09-21",ObGy,32,44,52,7,5,12,Thursday
+"Thursday,2023-09-21",Med,132,78,210,48,4,50,Thursday
+"Saturday,2023-09-23",ENT OPD,60,4,64,0,0,0,Saturday
+"Saturday,2023-09-23",PAED OPD,60,26,86,0,0,0,Saturday
+"Saturday,2023-09-23",OPTHALAM,100,30,130,0,0,0,Saturday
+"Saturday,2023-09-23",SKIN,97,30,127,0,0,0,Saturday
+"Saturday,2023-09-23",SURGERY,40,10,50,0,0,0,Saturday
+"Saturday,2023-09-23",ORTHO,40,16,56,0,0,0,Saturday
+"Saturday,2023-09-23",ObGy,48,39,87,0,0,0,Saturday
+"Saturday,2023-09-23",Med,155,72,227,0,0,0,Saturday
+"Monday,2023-09-25",ENT OPD,80,23,103,12,0,12,Monday
+"Monday,2023-09-25",PAED OPD,44,38,82,10,3,13,Monday
+"Monday,2023-09-25",OPTHALAM,25,5,30,15,5,20,Monday
+"Monday,2023-09-25",SKIN,112,30,142,26,6,32,Monday
+"Monday,2023-09-25",SURGERY,50,15,65,10,8,18,Monday
+"Monday,2023-09-25",ORTHO,100,37,137,20,5,25,Monday
+"Monday,2023-09-25",ObGy,47,61,108,12,1,13,Monday
+"Monday,2023-09-25",Med,178,71,249,46,16,62,Monday
+"Tuesday,2023-09-26",ENT OPD,80,22,102,8,2,10,Tuesday
+"Tuesday,2023-09-26",PAED OPD,70,20,90,5,2,7,Tuesday
+"Tuesday,2023-09-26",OPTHALAM,60,20,80,15,3,18,Tuesday
+"Tuesday,2023-09-26",SKIN,103,12,115,10,0,10,Tuesday
+"Tuesday,2023-09-26",SURGERY,30,15,45,15,3,18,Tuesday
+"Tuesday,2023-09-26",ORTHO,80,14,94,15,5,20,Tuesday
+"Tuesday,2023-09-26",ObGy,52,50,102,12,0,12,Tuesday
+"Tuesday,2023-09-26",Med,142,103,245,46,4,50,Tuesday
+"Wednesday,2023-09-27",ENT OPD,40,27,67,10,2,12,Wednesday
+"Wednesday,2023-09-27",PAED OPD,40,11,51,10,5,15,Wednesday
+"Wednesday,2023-09-27",OPTHALAM,30,5,35,10,0,10,Wednesday
+"Wednesday,2023-09-27",SKIN,62,11,73,10,2,12,Wednesday
+"Wednesday,2023-09-27",SURGERY,40,14,54,8,2,10,Wednesday
+"Wednesday,2023-09-27",ORTHO,80,29,109,15,3,18,Wednesday
+"Wednesday,2023-09-27",ObGy,42,33,75,10,0,10,Wednesday
+"Wednesday,2023-09-27",Med,164,76,240,31,19,50,Wednesday
+"Thursday,2023-09-28",ENT OPD,18,4,22,0,0,0,Thursday
+"Thursday,2023-09-28",PAED OPD,25,8,33,0,0,0,Thursday
+"Thursday,2023-09-28",OPTHALAM,10,5,15,0,0,0,Thursday
+"Thursday,2023-09-28",SKIN,24,5,29,0,0,0,Thursday
+"Thursday,2023-09-28",SURGERY,13,3,16,0,0,0,Thursday
+"Thursday,2023-09-28",ORTHO,15,2,17,0,0,0,Thursday
+"Thursday,2023-09-28",ObGy,18,15,33,0,0,0,Thursday
+"Thursday,2023-09-28",Med,36,23,59,0,0,0,Thursday
+"Saturday,2023-09-30",ENT OPD,40,13,53,0,0,0,Saturday
+"Saturday,2023-09-30",PAED OPD,50,21,71,0,0,0,Saturday
+"Saturday,2023-09-30",OPTHALAM,30,19,49,0,0,0,Saturday
+"Saturday,2023-09-30",SKIN,92,10,102,0,0,0,Saturday
+"Saturday,2023-09-30",SURGERY,40,10,50,0,0,0,Saturday
+"Saturday,2023-09-30",ORTHO,30,7,37,0,0,0,Saturday
+"Saturday,2023-09-30",ObGy,41,39,80,0,0,0,Saturday
+"Saturday,2023-09-30",Med,101,71,172,0,0,0,Saturday
